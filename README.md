@@ -1,4 +1,4 @@
-👋 Hi, I'm Sumanth Reddy Katkoori, a Data Analyst turned System Administrator. I hold a Master's in Data Science from the University of Alabama at Birmingham.
+👋 Hi, I'm Sumanth Reddy Katkoori, I hold a Master's in Data Science from the University of Alabama at Birmingham.
 
 📊 With experience in data analysis and IT systems management, I'm passionate about optimizing processes and leveraging data for decision-making.
 
